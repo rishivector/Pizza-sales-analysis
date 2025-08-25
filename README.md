@@ -1,7 +1,9 @@
 Pizza Sales Analysis (2015)
 🍕 Introduction
 This project provides a comprehensive analysis of a full year of sales data from a pizza restaurant. By diving into the dataset, we uncover key trends, identify top-performing products, and derive actionable insights to help drive strategic business decisions. The analysis explores sales performance by time of day, day of the week, and month, as well as by pizza category, size, and individual menu items.
+
 Dashboard : https://public.tableau.com/views/pizzadashboard_17534688321110/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 📈 Key Insights & Features
 This analysis extracts meaningful business intelligence from the raw sales data. Here are some of the key findings:
 
